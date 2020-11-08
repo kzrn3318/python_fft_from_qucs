@@ -1,1 +1,2 @@
 # python_fft_from_qucs
+qucsのcsvファイルからフーリエ変換を行うコード
